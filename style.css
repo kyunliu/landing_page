@@ -1,13 +1,21 @@
 body {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .header {
+    background-color: #FF9999;
+    color: white;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .one {
     display: flex;
+}
+
+a {
+ text-decoration: none;
 }
