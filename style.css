@@ -107,7 +107,7 @@ a {
     font-size: 24px;
     font-weight: bold;
     align-self: flex-end;
-    padding-bottom: 16px;
+    padding: 16px;
 }
 
 .call {
