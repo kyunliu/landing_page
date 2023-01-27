@@ -32,7 +32,7 @@ ul {
     color: #F9FAF8;
     align-items: center;
     padding: 32px;
-    gap: 16px;
+    gap: 32px;
 }
 
 a {
@@ -41,6 +41,9 @@ a {
  color: #E5E7EB;
 }
 
+.text {
+    text-align: center;
+}
 
 .logo {
     font-size: 24px;
@@ -76,6 +79,7 @@ a {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    padding: 16px;
 }
 .info {
     display: flex;
