@@ -97,6 +97,7 @@ a {
 }
 
 .quote {
+    padding: 64px;
     font-size: 36px;
     font-style: italic;
     align-self: flex-start;
