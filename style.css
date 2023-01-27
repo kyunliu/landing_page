@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     font-family: 'Roboto';
+    margin: 0;
 }
 
 .header {
@@ -47,6 +48,9 @@ a {
     color: #F9FAF8
 }
 
+.subtext {
+    padding: 8px 0;
+}
 .title {
     font-size: 48px;
     font-weight: bolder;
@@ -55,13 +59,18 @@ a {
 .signup {
     background-color: #3882F6;
     color: #E5E7EB; 
+    font-weight: bold;
     border-radius: 8px;
+    padding: 8px 24px;
 }
 
 .tiles{
-    max-width: 100px;
+    max-width: 200px;
 }
 
+.two {
+    padding: 64px 0px;
+}
 .infotitle{
     text-align: center;
     font-size: 36px;
@@ -76,8 +85,8 @@ a {
 
 .box {
     border: 2px solid #3882F6;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     border-radius: 8px;
 }
 
