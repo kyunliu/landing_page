@@ -15,11 +15,16 @@ body {
     align-items: center;
 }
 
+img{
+    max-width: 500px;
+}
+
 .one {
     display: flex;
     justify-content: center;
     background-color: #1F2937;
     color: #F9FAF8;
+    align-items: center;
 }
 
 a {
