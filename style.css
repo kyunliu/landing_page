@@ -84,3 +84,8 @@ a {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.four {
+    display: flex;
+    flex-direction: row;
+}
