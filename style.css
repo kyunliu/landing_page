@@ -11,6 +11,7 @@ body {
 img{
     max-width: 500px;
     border: 8px solid #F9FAF8;
+    border-radius: 16px;
 }
 
 ul {
